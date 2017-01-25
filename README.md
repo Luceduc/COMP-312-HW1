@@ -4,6 +4,7 @@ COMP 312 Hello World
 This README file that explains how to how to run and compile a Java Program
 
 ---- RUN IN AN IDE ----
+
 If you want to run the HelloWorld.java in an IDE, such as Eclipse
 
 import an entire Eclipse project from an archive file, follow these steps.
@@ -21,6 +22,7 @@ import an entire Eclipse project from an archive file, follow these steps.
 
 
 ---- COMPILE AND RUN ----
+
 -In the Package Explorer view, find HelloWorld.java and double-click it to open it in an editor.
 
 -Click the "Run" button in the toolbar.
